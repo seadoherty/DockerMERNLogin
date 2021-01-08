@@ -18,3 +18,5 @@ finally
 docker-compose up
 ``` 
 Enjoy!
+
+![DockerMERNlogin](https://user-images.githubusercontent.com/2447375/104073217-18c23300-51db-11eb-86cf-89320174b388.gif)
