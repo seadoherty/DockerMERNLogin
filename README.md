@@ -3,7 +3,7 @@
 
 This login app is split into 3 Docker containers.
 
-The setup is based on a great video from DevOps Directive (link [here](https://www.youtube.com/watch?v=0B2raYYH2fE))
+The setup is based on a great video from [@sidpalas](https://github.com/sidpalas/devops-directive) at DevOps Directive (link [here](https://www.youtube.com/watch?v=0B2raYYH2fE))
 
 To run from scratch 
 ```
